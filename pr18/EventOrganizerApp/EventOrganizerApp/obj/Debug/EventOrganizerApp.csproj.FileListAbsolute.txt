@@ -1,0 +1,14 @@
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe.config
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.pdb
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.AssemblyReference.cache
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\MainWindow.baml
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\MainWindow.g.cs
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\App.g.cs
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp_MarkupCompile.cache
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.g.resources
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.Properties.Resources.resources
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.GenerateResource.cache
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.CoreCompileInputs.cache
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.exe
+D:\Makson\15\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.pdb
